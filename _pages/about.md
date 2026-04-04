@@ -6,32 +6,34 @@ subtitle: Electrical and Computer Engineering, University of Arizona</a>.
 
 profile:
   align: right
-  image: chieh1.jpg
-  image_circular: false # crops the image to make it circular
+  image: chieh.jpg
+  image_circular: false
   more_info: >
     <p>1230 E. Speedway Blvd.</p>
     <p>Tucson, AZ 85721</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Hey, thanks for stopping by! :sparkles: :smile:
+Hi, thanks for stopping by.
 
-I’m a PhD student in Electrical & Computer Engineering at the [University of Arizona](https://ece.engineering.arizona.edu/), advised by Prof. [Salim Hariri](https://ece.engineering.arizona.edu/faculty-staff/faculty/salim-hariri/) in the [Autonomic Computing Laboratory](https://nsfcac.org/).
+I am a PhD student in Electrical and Computer Engineering at the [University of Arizona](https://ece.engineering.arizona.edu/), advised by Prof. [Salim Hariri](https://ece.engineering.arizona.edu/faculty-staff/faculty/salim-hariri/) in the [Autonomic Computing Laboratory](https://nsfcac.org/).
 
-I work at the intersection of AI, cybersecurity, and autonomous vehicles, focusing on resilience—anticipating, withstanding, and recovering from failures and attacks. I design and evaluate ML-driven defenses to make autonomy safer, including experiments on a [Quanser Qcar2 testbed](https://www.quanser.com/products/qcar-2/)
+My research focuses on autonomous safety and resilience at the intersection of AI, cybersecurity, and cyber-physical systems, with current work on autonomous vehicles, [Quanser QCar2](https://www.quanser.com/products/qcar-2/), and quadcopter-related platforms.
 
-Previously, I worked on satellite image super-resolution with deep learning and co-authored work on nation-scale image analysis in [VIP lab](https://sites.google.com/view/viplabntust/) as a research assistant. I received my M.S. in Electronics and Computer Engineering from the [National Taiwan University of Science and Technology](https://ece.ntust.edu.tw/index.php?Lang=en), where my thesis explored age and gender classification with cGAN augmentation.
+Before joining Arizona, I worked in Taiwan on satellite image super-resolution and large-scale image analysis in [VIP Lab](https://sites.google.com/view/viplabntust/), and received my M.S. in Electronics and Computer Engineering from the [National Taiwan University of Science and Technology](https://ece.ntust.edu.tw/index.php?Lang=en).
 
-Outside the lab, I enjoy music— I play the violin, piano, and ukulele, and I won a singing competition in high school.
+I received an IEEE Best Master Thesis Award, a Best Presentation Award at ICSSE 2024, and an honorable mention in Taiwan's Pickathon robotics and AI competition.
+
+Outside the lab, I enjoy music, play multiple instruments, and love animals.
