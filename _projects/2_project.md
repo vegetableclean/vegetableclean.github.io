@@ -10,11 +10,13 @@ related_publications: false
 
 This project was developed in collaboration with Dr. Azimi's lab at the University of Arizona as a simple Franka robotic-arm demo workflow using ROS 2, MoveIt 2, RViz, and a Docker-based development environment.
 
+This work was carried out in collaboration with [Dr. Ehsan Azimi](https://ece.engineering.arizona.edu/faculty-staff/faculty/ehsan-azimi).
+
 The project includes pick-and-place simulation as well as a basic real-robot workflow for Franka-based experiments.
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/project-franka-pickplace-cover.jpg" title="Franka pick-and-place demo" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/project-franka-pickplace.gif" title="Franka pick-and-place demo" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
