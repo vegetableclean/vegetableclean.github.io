@@ -4,7 +4,7 @@ title: ValueLens
 description: A lightweight Chrome extension for comparing official Miu Miu US and Japan product pricing from the product page itself.
 img: assets/img/project-valuelens-miumiu-demo.jpg
 importance: 3
-category: work
+category: side project
 related_publications: false
 ---
 
