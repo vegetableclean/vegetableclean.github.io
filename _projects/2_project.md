@@ -2,7 +2,7 @@
 layout: page
 title: Franka Pick-and-Place
 description: ROS 2 and MoveIt 2 workflow for a Franka robotic arm, covering Docker-based setup, simulation, and real-robot deployment.
-img: assets/img/project-franka-pickplace.gif
+img: assets/img/project-franka-pickplace-cover.jpg
 importance: 2
 category: work
 related_publications: false
@@ -14,7 +14,7 @@ The project includes pick-and-place simulation as well as a basic real-robot wor
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/project-franka-pickplace.gif" title="Franka pick-and-place demo" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/project-franka-pickplace-cover.jpg" title="Franka pick-and-place demo" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
