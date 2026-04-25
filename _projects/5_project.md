@@ -2,7 +2,7 @@
 layout: page
 title: Quanser Safety and Security Research
 description: Experimental research on safety, security, and resilience using Quanser platforms including QCar, QDrone, traffic-light modules, and integrated testbed workflows.
-img: assets/img/project-quanser-research.jpg
+img: assets/img/project-quanser-research-cover.jpg
 importance: 2
 category: research
 related_publications: false
