@@ -37,8 +37,9 @@ Highlights:
 - simple year selector to keep the interface clean
 - designed as a practical SDE-style product prototype, not just a spreadsheet
 
-Downloads:
-- [Chrome extension package (ZIP)](/files/extensions/tucson-zillow-value-lens-extension.zip)
+Access:
+- If you are interested in trying the extension, please contact me directly by email or LinkedIn.
+- The package is not publicly linked from this page.
 
 Notes:
 - This is a prototype and uses a local heuristic parser rather than an official Zillow API.
